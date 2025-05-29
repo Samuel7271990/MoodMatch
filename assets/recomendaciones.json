@@ -1,0 +1,460 @@
+[
+  {
+    "tipo": "Pelicula",
+    "titulo": "Película-> Intensamente",
+    "descripcion": "Película animada que explora las emociones humanas.",
+    "estadoAnimoId": 1,
+    "imagen": "intensamente.jpg",
+    "plataformas": "Dónde Ver -> Disney"
+
+  },
+  {
+    "tipo": "Pelicula",
+    "titulo": "Película-> La La Land",
+    "descripcion": "Drama romántico con música y pasión por los sueños.",
+    "estadoAnimoId": 2,
+    "imagen": "la_la_land.jpg",
+    "plataformas": "Dónde Ver -> Disney"
+  },
+  {
+    "tipo": "Pelicula",
+    "titulo": "Película-> El club de la pelea",
+    "descripcion": "Película psicológica que cuestiona la sociedad moderna.",
+    "estadoAnimoId": 3,
+    "imagen": "el_club_de_la_lucha.jpg",
+    "plataformas": "Dónde Ver -> Netflix"
+  },
+  {
+    "tipo": "Pelicula",
+    "titulo": "Película-> Comer, rezar, amar",
+    "descripcion": "Viaje personal de una mujer en busca de equilibrio.",
+    "estadoAnimoId": 4,
+    "imagen": "comer_rezar_amar.jpg",
+    "plataformas": "Dónde Ver -> Prime Video"
+  },
+  {
+    "tipo": "Pelicula",
+    "titulo": "Película-> Amélie",
+    "descripcion": "Comedia francesa encantadora que celebra la belleza de lo cotidiano.",
+    "estadoAnimoId": 4,
+    "imagen": "amelie.jpg",
+    "plataformas": "Dónde Ver -> Disney"
+  },
+  {
+    "tipo": "Pelicula",
+    "titulo": "Película-> Soul",
+    "descripcion": "Exploración animada sobre el propósito y la pasión.",
+    "estadoAnimoId": 2,
+    "imagen": "soul.jpg",
+    "plataformas": "Dónde Ver -> Disney"
+  },
+  {
+    "tipo": "Pelicula",
+    "titulo": "Película-> Her",
+    "descripcion": "Un hombre se enamora de una inteligencia artificial. Profunda y melancólica.",
+    "estadoAnimoId": 2,
+    "imagen": "her.jpg",
+    "plataformas": "Dónde Ver -> Disney"
+  },
+  {
+    "tipo": "Pelicula",
+    "titulo": "Película-> Uncut Gems",
+    "descripcion": "Thriller frenético sobre apuestas y ansiedad constante.",
+    "estadoAnimoId": 3,
+    "imagen": "uncut_gems.jpg",
+    "plataformas": "Dónde Ver -> Disney"
+  },
+  {
+    "tipo": "Pelicula",
+    "titulo": "Película-> Parasite",
+    "descripcion": "Drama social y thriller que explora las diferencias de clase.",
+    "estadoAnimoId": 3,
+    "imagen": "parasite.jpg",
+    "plataformas": "Dónde Ver -> Disney"
+  },
+  {
+    "tipo": "Pelicula",
+    "titulo": "Película-> El viaje de Chihiro",
+    "descripcion": "Animación japonesa que mezcla fantasía y crecimiento personal.",
+    "estadoAnimoId": 4,
+    "imagen": "el_viaje_de_chihiro.jpg",
+    "plataformas": "Dónde Ver -> Disney"
+  },
+  {
+    "tipo": "Pelicula",
+    "titulo": "Película-> El Gran Hotel Budapest",
+    "descripcion": "Comedia visualmente estilizada sobre aventuras y amistad.",
+    "estadoAnimoId": 1,
+    "imagen": "el_gran_hotel_budapest.jpg",
+    "plataformas": "Dónde Ver -> Disney"
+  },
+  {
+    "tipo": "Pelicula",
+    "titulo": "Película-> La lista de Schindler",
+    "descripcion": "Impactante drama histórico sobre el Holocausto y la esperanza.",
+    "estadoAnimoId": 3,
+    "imagen": "la_lista_de_schindler.jpg",
+    "plataformas": "Dónde Ver -> Disney"
+  },
+  {
+    "tipo": "Pelicula",
+    "titulo": "Película-> Joker",
+    "descripcion": "Retrato oscuro y complejo de la alienación y la locura.",
+    "estadoAnimoId": 3,
+    "imagen": "joker.jpg",
+    "plataformas": "Dónde Ver -> Disney"
+  },
+  {
+    "tipo": "Pelicula",
+    "titulo": "Película-> Coco",
+    "descripcion": "Animación colorida que celebra la familia y la memoria.",
+    "estadoAnimoId": 4,
+    "imagen": "coco.jpg",
+    "plataformas": "Dónde Ver -> Disney"
+  },
+  {
+    "tipo": "Pelicula",
+    "titulo": "Película-> Gladiador",
+    "descripcion": "Épica histórica sobre honor, venganza y redención.",
+    "estadoAnimoId": 2,
+    "imagen": "gladiator.jpg",
+    "plataformas": "Dónde Ver -> Disney"
+  },
+  {
+    "tipo": "Pelicula",
+    "titulo": "Película-> Memento",
+    "descripcion": "Thriller psicológico con narrativa no lineal y misterio.",
+    "estadoAnimoId": 3,
+    "imagen": "memento.jpg",
+    "plataformas": "Dónde Ver -> Disney"
+  },
+  {
+    "tipo": "Pelicula",
+    "titulo": "Película-> Into the Wild",
+    "descripcion": "Historia real sobre búsqueda de libertad y autoconocimiento.",
+    "estadoAnimoId": 4,
+    "imagen": "into_the_wild.jpg",
+    "plataformas": "Dónde Ver -> Disney"
+  },
+  {
+    "tipo": "Pelicula",
+    "titulo": "Película-> Mad Max: Fury Road",
+    "descripcion": "Acción intensa en un mundo postapocalíptico.",
+    "estadoAnimoId": 2,
+    "imagen": "mad_max.jpg",
+    "plataformas": "Dónde Ver -> Disney"
+  },
+  {
+    "tipo": "Pelicula",
+    "titulo": "Película-> El secreto de sus ojos",
+    "descripcion": "Thriller y romance que explora la justicia y la memoria.",
+    "estadoAnimoId": 3,
+    "imagen": "el_secreto_de_sus_ojos.jpg",
+    "plataformas": "Dónde Ver -> Disney"
+  },
+  {
+    "tipo": "Pelicula",
+    "titulo": "Película-> Wall-E",
+    "descripcion": "Animación que combina ciencia ficción y mensaje ambiental.",
+    "estadoAnimoId": 1,
+    "imagen": "walle.jpg",
+    "plataformas": "Dónde Ver -> Disney"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Serie-> Friends",
+    "descripcion": "Comedia ligera sobre un grupo de amigos en Nueva York.",
+    "estadoAnimoId": 1,
+    "imagen": "friends.jpg",
+    "plataformas": "Dónde Ver -> Amazon"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Serie-> BoJack Horsman",
+    "descripcion": "Serie animada con humor negro y crítica emocional.",
+    "estadoAnimoId": 2,
+    "imagen": "bojack_horsman.jpg",
+    "plataformas": "Dónde Ver -> Amazon"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Serie-> Mr. Robot",
+    "descripcion": "Serie intensa sobre hacking, ansiedad y dualidad.",
+    "estadoAnimoId": 3,
+    "imagen": "mr_robot.jpg",
+    "plataformas": "Dónde Ver -> Amazon"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Serie-> Anne with an E",
+    "descripcion": "Adaptación suave y emotiva del clásico 'Anne of Green Gables'.",
+    "estadoAnimoId": 4,
+    "imagen": "anne_with_an_e.jpg",
+    "plataformas": "Dónde Ver -> Amazon"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Serie-> The Good Place",
+    "descripcion": "Comedia filosófica que explora la moralidad de forma ligera.",
+    "estadoAnimoId": 1,
+    "imagen": "the_good_place.jpg",
+    "plataformas": "Dónde Ver -> Amazon"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Serie-> This Is Us",
+    "descripcion": "Drama familiar emotivo y profundo.",
+    "estadoAnimoId": 2,
+    "imagen": "this_is_us.jpg",
+    "plataformas": "Dónde Ver -> Original de Netflix"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Serie-> Mindhunter",
+    "descripcion": "Crímenes reales y psicología criminal en los inicios del FBI.",
+    "estadoAnimoId": 3,
+    "imagen": "mindhunter.jpg",
+    "plataformas": "Dónde Ver -> Amazon"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Serie-> Call the Midwife",
+    "descripcion": "Serie tranquila sobre comadronas en la posguerra británica.",
+    "estadoAnimoId": 4,
+    "imagen": "call_the_midwife.jpg",
+    "plataformas": "Dónde Ver -> Amazon"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Serie-> Stranger Things",
+    "descripcion": "Suspenso y aventura en un pequeño pueblo con elementos sobrenaturales.",
+    "estadoAnimoId": 2,
+    "imagen": "stranger_things.jpg",
+    "plataformas": "Dónde Ver -> Original de Netflix"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Serie-> The Crown",
+    "descripcion": "Drama histórico que narra la vida de la Reina Isabel II.",
+    "estadoAnimoId": 3,
+    "imagen": "the_crown.jpg",
+    "plataformas": "Dónde Ver -> Original de Netflix"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Serie-> The Office",
+    "descripcion": "Comedia satírica en el ambiente de una oficina común.",
+    "estadoAnimoId": 1,
+    "imagen": "the_office.jpg",
+    "plataformas": "Dónde Ver -> Amazon"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Serie-> Dark",
+    "descripcion": "Thriller de ciencia ficción con viajes en el tiempo y misterio.",
+    "estadoAnimoId": 3,
+    "imagen": "dark.jpg",
+    "plataformas": "Dónde Ver -> Original de Netflix"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Serie-> Fleabag",
+    "descripcion": "Comedia dramática que aborda la soledad y la autocrítica.",
+    "estadoAnimoId": 4,
+    "imagen": "fleabag.jpg",
+    "plataformas": "Dónde Ver -> Original de Amazon"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Serie-> Narcos",
+    "descripcion": "Serie basada en la historia real del narcotráfico en Colombia.",
+    "estadoAnimoId": 3,
+    "imagen": "narcos.jpg",
+    "plataformas": "Dónde Ver -> Original de Netflix"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Serie-> Schitt's Creek",
+    "descripcion": "Comedia sobre una familia rica que pierde todo y se adapta a la nueva vida.",
+    "estadoAnimoId": 1,
+    "imagen": "schitt_creek.jpg",
+    "plataformas": "Dónde Ver -> Netflix"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Serie-> Westworld",
+    "descripcion": "Serie de ciencia ficción que explora la conciencia y la realidad.",
+    "estadoAnimoId": 3,
+    "imagen": "westworld.jpg",
+    "plataformas": "Dónde Ver -> Amazon"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Serie-> Better Call Saul",
+    "descripcion": "Drama sobre la transformación de un abogado en criminal.",
+    "estadoAnimoId": 3,
+    "imagen": "better_call_saul.jpg",
+    "plataformas": "Dónde Ver -> Netflix"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Serie-> Grey's Anatomy",
+    "descripcion": "Drama médico con historias de amor y superación personal.",
+    "estadoAnimoId": 4,
+    "imagen": "grey_anatomy.jpg",
+    "plataformas": "Dónde Ver -> ABC, Disney"
+  },
+  {
+    "tipo": "Serie",
+    "titulo": "Serie-> Parks and Recreation",
+    "descripcion": "Comedia sobre la administración pública con personajes entrañables.",
+    "estadoAnimoId": 1,
+    "imagen": "parks_and_recreation.jpg",
+    "plataformas": "Dónde Ver -> TV Insider"
+  },
+  {
+    "tipo": "Libro",
+    "titulo": "Libro-> El Alquimista",
+    "descripcion": "Historia inspiradora sobre seguir tus sueños.",
+    "estadoAnimoId": 1,
+    "imagen": "el_alquimista.jpg",
+    "plataformas": "Comprar en -> La casa del libro, el corte ingles, amazon"
+  },
+  {
+    "tipo": "Libro",
+    "titulo": "Libro-> Las ventajas de ser invisible",
+    "descripcion": "Novela sobre adolescencia, pérdida y emociones profundas.",
+    "estadoAnimoId": 2,
+    "imagen": "las_ventajas_de_ser_invisible.jpg",
+    "plataformas": "Comprar en -> La casa del libro, el corte ingles, amazon"
+  },
+  {
+    "tipo": "Libro",
+    "titulo": "Libro-> 1984",
+    "descripcion": "Distopía inquietante sobre el control y la vigilancia.",
+    "estadoAnimoId": 3,
+    "imagen": "mil_novecientos.jpg",
+    "plataformas": "Comprar en -> La casa del libro, el corte ingles, amazon"
+  },
+  {
+    "tipo": "Libro",
+    "titulo": "Libro-> El monje que vendió su Ferrari",
+    "descripcion": "Fábula sobre alcanzar la paz interior y el propósito.",
+    "estadoAnimoId": 4,
+    "imagen": "el_monje_que_vendio_su_ferrari.jpg",
+    "plataformas": "Comprar en -> La casa del libro, el corte ingles, amazon"
+  },
+  {
+    "tipo": "Libro",
+    "titulo": "Libro-> El poder del ahora",
+    "descripcion": "Guía espiritual para vivir plenamente en el presente.",
+    "estadoAnimoId": 4,
+    "imagen": "el_poder_del_ahora.jpg",
+    "plataformas": "Comprar en -> La casa del libro, el corte ingles, amazon"
+
+  },
+  {
+    "tipo": "Libro",
+    "titulo": "Libro-> Tokio Blues (Norwegian Wood)",
+    "descripcion": "Novela melancólica sobre amor y pérdida en la juventud.",
+    "estadoAnimoId": 2,
+    "imagen": "tokio_blues.jpg",
+    "plataformas": "Comprar en -> La casa del libro, el corte ingles, amazon"
+  },
+  {
+    "tipo": "Libro",
+    "titulo": "Libro-> Kafka en la orilla",
+    "descripcion": "Historia surrealista con personajes introspectivos y ansiosos.",
+    "estadoAnimoId": 3,
+    "imagen": "kafka_en_la_orilla.jpg",
+    "plataformas": "Comprar en -> La casa del libro, el corte ingles, amazon"
+  },
+  {
+    "tipo": "Libro",
+    "titulo": "Libro-> Cien años de soledad",
+    "descripcion": "Crónica mágica de una familia marcada por el destino.",
+    "estadoAnimoId": 1,
+    "imagen": "cien_anios_de_soledad.jpg",
+    "plataformas": "Comprar en -> La casa del libro, el corte ingles, amazon"
+  },
+  {
+    "tipo": "Libro",
+    "titulo": "Libro-> Don Quijote de la Mancha",
+    "descripcion": "Clásico de la literatura española sobre idealismo y realidad.",
+    "estadoAnimoId": 4,
+    "imagen": "don_quijote.jpg",
+    "plataformas": "Comprar en -> La casa del libro, el corte ingles, amazon"
+  },
+  {
+    "tipo": "Libro",
+    "titulo": "Libro-> La sombra del viento",
+    "descripcion": "Misterio literario ambientado en la Barcelona de posguerra.",
+    "estadoAnimoId": 3,
+    "imagen": "la_sombra_del_viento.jpg",
+    "plataformas": "Comprar en -> La casa del libro, el corte ingles, amazon"
+  },
+  {
+    "tipo": "Libro",
+    "titulo": "Libro-> El Principito",
+    "descripcion": "Fábula poética que reflexiona sobre la inocencia y la vida.",
+    "estadoAnimoId": 1,
+    "imagen": "el_principito.jpg",
+    "plataformas": "Comprar en -> La casa del libro, el corte ingles, amazon"
+  },
+  {
+    "tipo": "Libro",
+    "titulo": "Libro-> Orgullo y prejuicio",
+    "descripcion": "Novela romántica sobre las diferencias sociales y el amor.",
+    "estadoAnimoId": 2,
+    "imagen": "orgullo.jpg",
+    "plataformas": "Comprar en -> La casa del libro, el corte ingles, amazon"
+  },
+  {
+    "tipo": "Libro",
+    "titulo": "Libro-> La ladrona de libros",
+    "descripcion": "Historia emotiva ambientada en la Alemania nazi.",
+    "estadoAnimoId": 4,
+    "imagen": "la_ladrona_de_libros.jpg",
+    "plataformas": "Comprar en -> La casa del libro, el corte ingles, amazon"
+  },
+  {
+    "tipo": "Libro",
+    "titulo": "Libro-> Fahrenheit 451",
+    "descripcion": "Distopía sobre la censura y la importancia del conocimiento.",
+    "estadoAnimoId": 3,
+    "imagen": "cuatro_cinco.jpg",
+    "plataformas": "Comprar en -> La casa del libro, el corte ingles, amazon"
+  },
+  {
+    "tipo": "Libro",
+    "titulo": "Libro-> Matar a un ruiseñor",
+    "descripcion": "Narrativa sobre justicia racial y moralidad en EE.UU.",
+    "estadoAnimoId": 4,
+    "imagen": "matar_a_un_ruisenior.jpg",
+    "plataformas": "Comprar en -> La casa del libro, el corte ingles, amazon"
+  },
+  {
+    "tipo": "Libro",
+    "titulo": "Libro-> Crónica de una muerte anunciada",
+    "descripcion": "Novela corta sobre el destino y el honor en un pueblo colombiano.",
+    "estadoAnimoId": 3,
+    "imagen": "cronicas_de_una_muerte.jpg",
+    "plataformas": "Comprar en -> La casa del libro, el corte ingles, amazon"
+  },
+  {
+    "tipo": "Libro",
+    "titulo": "Libro-> El nombre del viento",
+    "descripcion": "Fantasia épica que sigue la vida de un mago prodigio.",
+    "estadoAnimoId": 2,
+    "imagen": "el_nombre_del_viento.jpg",
+    "plataformas": "Comprar en -> La casa del libro, el corte ingles, amazon"
+  },
+  {
+    "tipo": "Libro",
+    "titulo": "Libro-> La ciudad de las bestias",
+    "descripcion": "Aventura juvenil en la Amazonía con elementos fantásticos.",
+    "estadoAnimoId": 1,
+    "imagen": "la_ciudad_de_las_bestias.jpg",
+    "plataformas": "Comprar en -> La casa del libro, el corte ingles, amazon"
+  }
+]

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:outlineSpotShadowColor="@color/black"
+    android:padding="16dp"
+    android:background="@android:color/holo_blue_bright">
+
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="match_parent"
+        android:layout_height="225dp"
+        app:srcCompat="@mipmap/mood_match_foreground" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="¿Cómo te sientes hoy?"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <Spinner
+        android:id="@+id/spinnerEstados"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_purple"
+        android:minHeight="48dp"
+        android:padding="8dp" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="¿Qué prefieres?"
+        android:textSize="16sp"
+        android:layout_marginTop="10dp"
+        android:textColor="@android:color/black"/>
+
+    <Spinner
+        android:id="@+id/spinnerTipo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_purple"
+        android:minHeight="48dp"
+        android:padding="8dp" />
+
+    <Button
+        android:id="@+id/btnVerRecomendacion"
+        android:layout_width="wrap_content"
+        android:layout_height="69dp"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="@android:color/black"
+        android:text="Ver Recomendaciones" />
+
+    <Button
+        android:id="@+id/btnVerFavoritos"
+        android:layout_width="wrap_content"
+        android:layout_height="69dp"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="@android:color/black"
+        android:text="Favoritos" />
+
+</LinearLayout>
